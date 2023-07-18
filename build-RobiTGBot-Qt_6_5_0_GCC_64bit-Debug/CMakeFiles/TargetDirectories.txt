@@ -1,0 +1,3 @@
+/home/lol/Documents/code/build-RobiTGBot-Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/RobiTGBot.dir
+/home/lol/Documents/code/build-RobiTGBot-Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/lol/Documents/code/build-RobiTGBot-Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
